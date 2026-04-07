@@ -24,7 +24,7 @@
         "message": "Паролі можна налаштувати різними способами."
     },
     "tutorial-000783": {
-        "message": "Як адміністратор, ви можете переглядати загальні налаштування."
+        "message": "Як адміністратор ви можете переглядати загальні налаштування."
     },
     "tutorial-000784": {
         "message": "Щоразу, коли ви не знаєте, як щось працює, маєте запитання або потребуєте допомоги у вирішенні проблеми:"
@@ -33,7 +33,7 @@
         "message": "Допомога не за горами."
     },
     "tutorial-000786": {
-        "message": "Довідник із користування зістосунку можна знайти в розділі, якщо клацнути на кнопку \"Більше\"."
+        "message": "Довідник із користування застосунку можна знайти в розділі, якщо клацнути на кнопку \"Більше\"."
     },
     "tutorial-000787": {
         "message": "У будь-якому випадку, наша спільнота допоможе знайти відповідь на ваші запитання."
@@ -42,10 +42,10 @@
         "message": "Посібник буде відкрито після цих інструкцій"
     },
     "tutorial-000789": {
-        "message": "Введіть пароль від 12 символів і більше"
+        "message": "Зазначте пароль від 12 символів та більше"
     },
     "tutorial-000790": {
-        "message": "Ваш пароль повинен містити щонайменше 12 символів, а пароль підтвердження має бути таким самим"
+        "message": "Ваш пароль повинен містити щонайменше 12 символів, збігатися з паролем, який зазначите при підтвердженні"
     },
     "apps-000002": {
         "message": "від $AUTHOR$",
@@ -109,10 +109,10 @@
         "message": "Ви вчасно не підтвердили під'єднання"
     },
     "apps-000020": {
-        "message": "Відскануйте QR-код за допомогою застосунку для під'єднання."
+        "message": "Відскануйте QR-код за допомогою застосунку."
     },
     "apps-000021": {
-        "message": "Натисніть кнопку, коли будете готові розпочати під'єднання."
+        "message": "Натисніть кнопку, коли будете готові під'єднати пристрій."
     },
     "apps-000022": {
         "message": "Перевірте, чи збігаються наведені нижче коди з кодами, які було надано пристроєм або у застосунку:"
@@ -225,7 +225,7 @@
         "message": "Порожньо"
     },
     "backups-000053": {
-        "message": "Додати рядок заголовка"
+        "message": "Додати рядок заголовку"
     },
     "backups-000054": {
         "message": "Паролі для експорту, якими ви поділилися зі мною"
@@ -243,7 +243,7 @@
         "message": "Експорт"
     },
     "backups-000059": {
-        "message": "Чекаю…"
+        "message": "Очікування…"
     },
     "backups-000060": {
         "message": "Помилка експорту"
@@ -296,7 +296,7 @@
         "message": "Пропускати завжди"
     },
     "backups-000075": {
-        "message": "Перезаписати існуючі"
+        "message": "Перезаписати наявні"
     },
     "backups-000076": {
         "message": "Об'єднати з наявними"
@@ -356,7 +356,7 @@
         "message": "Пропускати перший рядок"
     },
     "backups-000095": {
-        "message": "Інтерполювати відсутні поля"
+        "message": "Заповнити відсутні поля"
     },
     "backups-000096": {
         "message": "Мапування полів CSV"
@@ -394,7 +394,7 @@
         "message": "Аналіз каталогів"
     },
     "backups-000106": {
-        "message": "Читання тегів"
+        "message": "Читання міток"
     },
     "backups-000107": {
         "message": "Імпорт міток"
@@ -601,7 +601,7 @@
         "message": "Кошик"
     },
     "frontend-000156": {
-        "message": "Деталі"
+        "message": "Докладно"
     },
     "frontend-000157": {
         "message": "Редагувати"
@@ -772,7 +772,7 @@
         "message": "Створити мітку"
     },
     "frontend-000213": {
-        "message": "Тег створено"
+        "message": "Мітку створено"
     },
     "frontend-000214": {
         "message": "Не вдалося створити мітку"
@@ -784,7 +784,7 @@
         "message": "Зґенерувати випадковий колір"
     },
     "frontend-000217": {
-        "message": "Тег збережено"
+        "message": "Иітку збережено"
     },
     "frontend-000218": {
         "message": "Не вдалося зберегти мітку"
@@ -802,7 +802,7 @@
         "message": "Не вдалося вилучити мітку"
     },
     "frontend-000223": {
-        "message": "Тег відновлено"
+        "message": "Мітку відновлено"
     },
     "frontend-000224": {
         "message": "Не вдалося відновити мітку"
@@ -847,13 +847,13 @@
         "message": "Не вдалося відновити пароль"
     },
     "frontend-000238": {
-        "message": "Відкрити URL-адресу"
+        "message": "Перейти за посиланням"
     },
     "frontend-000239": {
         "message": "Копіювати адресу посилання"
     },
     "frontend-000240": {
-        "message": "Копіювати користувача"
+        "message": "Копіювати ім'я користувача"
     },
     "frontend-000241": {
         "message": "Копіювати пароль"
@@ -1238,7 +1238,7 @@
         "message": "1 каталог"
     },
     "frontend-000339": {
-        "message": "$TAGS$ теги",
+        "message": "$TAGS$ мітки",
         "placeholders": {
             "tags": {
                 "content": "$1"
@@ -1560,7 +1560,7 @@
         "message": "Інші налаштування"
     },
     "backend-000419": {
-        "message": "Вилучити видалені об'єкти з бази даних"
+        "message": "Очистити базу даних від раніше вилучених об'єктів"
     },
     "backend-000420": {
         "message": "Показувати щоденні оновлення в \"Застосунках\""
@@ -2220,7 +2220,7 @@
         "message": "Редагувати як новий"
     },
     "frontend-000594": {
-        "message": "Відійди."
+        "message": "Перемістити"
     },
     "frontend-000595": {
         "message": "Відкрито $LABEL$",
@@ -2519,7 +2519,7 @@
         "message": "Автоматично (рекомендовано)"
     },
     "frontend-000667": {
-        "message": "Теги CSV"
+        "message": "Мітки CSV"
     },
     "frontend-000669": {
         "message": "Типово"
@@ -2700,7 +2700,7 @@
         "description": "Label in the settings for the option to add a custom shortcut button to each password entry"
     },
     "settings-SettingsCustomActionHelp": {
-        "message": "Додає додаткову кнопку для виконання вказаної дії у поданні стільниці",
+        "message": "Створює додаткову кнопку для виконання вказаної дії у поданні стільниці",
         "description": "Help text in the settings for the option to add a custom shortcut button to each password entry"
     },
     "settings-SettingsShowShareTab": {
@@ -2789,7 +2789,7 @@
         "message": "каталоги"
     },
     "tutorial-000732": {
-        "message": "теги"
+        "message": "мітки"
     },
     "tutorial-000733": {
         "message": "із зірочкою"
@@ -3169,7 +3169,7 @@
         }
     },
     "frontend-PasswordActionChangePwPage": {
-        "message": "Відкрити сторінку зміни пароля",
+        "message": "Змінити пароль",
         "description": "Label of the menu option to open the change password page for the current password"
     },
     "frontend-ChangePasswordPageText": {
@@ -3335,7 +3335,7 @@
         "description": "Headline of the error page when the browser can not run the app"
     },
     "frontend-CompatText1": {
-        "message": "Ваш браузер застарілий і не має необхідних функцій для запуску цього додатку.",
+        "message": "Ваш браузер застарілий і не має необхідних функцій для запуску цього застосунку.",
         "description": "Error page message when the browser can not run the app"
     },
     "frontend-CompatText2": {
@@ -3347,7 +3347,7 @@
         "description": "Headline of the error page when the browser can not run the app because WebAssembly is not supported"
     },
     "frontend-CompatWASMText1": {
-        "message": "Ваш браузер не підтримує WebAssembly (WASM), який необхідний для запуску цього додатка.",
+        "message": "Ваш браузер не підтримує WebAssembly (WASM), який необхідний для запуску цього застосунку.",
         "description": "Error page message when the browser can not run the app because WebAssembly is not supported"
     },
     "frontend-CompatWASMText2": {
